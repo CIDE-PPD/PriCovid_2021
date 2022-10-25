@@ -1,3 +1,9 @@
+![Build Status](https://img.shields.io/static/v1?label=Autoría&message=PPD&color=EC1E2D) 
+![Build Status](https://img.shields.io/github/directory-file-count/CIDE-PPD/PriCovid_2021) 
+![Build Status](https://img.shields.io/tokei/lines/github/CIDE-PPD/PriCovid_2021) 
+![Build Status](https://img.shields.io/twitter/follow/cideppd?style=social)
+![Build Status](https://img.shields.io/github/followers/CIDE-PPD?style=social)
+
 # Encuesta PriCovid 2021
 Este repositorio contiene todos los insumos necesarios para replicar el análisis de la Encuesta sobre experiencias de familiares de personas privadas de su libertad durante la pandemia de COVID-19 (PriCovid) 2021, respondiendo así a los más altos estándares de transparencia. Para reproducir este análisis, basta con clonar el repositorio, abrir el proyecto de R `PriCovid_2021.Rproj` y ejecutar los códigos.
 
